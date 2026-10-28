@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (NAHIDTOPUP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "Nahidtop";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -16,11 +16,10 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://youtube.com/@clashofclans2025-i7l?si=ofGFEiz1HR9utdoi";
 
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
-১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে ♥️`;
+var notification_text = `💎 কম দামে প্রিমিয়াম টপ-আপ ⚡ সুপার ফাস্ট ডেলিভারি 🛡️ বিশ্বস্ত সার্ভিস, নির্ভরযোগ্য লেনদেন 
+🔥 আপনার গেমিংয়ের সব টপ-আপ এক জায়গায়!`;
